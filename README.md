@@ -1,4 +1,4 @@
-# 看图（Kantu）— 功能说明与使用文档
+# 看图（Kantu）— 中文功能说明与使用文档
 
 本文档描述当前「看图」应用的功能、操作方式与使用要求，可作为产品需求与用户说明使用。
 
@@ -116,7 +116,7 @@
 
 *文档与当前代码行为一致，如有界面或按键变更请同步更新本文档。*
 
-# Kantu — User Manual
+# Kantu — User Manual EN
 
 This document describes the **Kantu** image/comic viewer: features, controls, and setup. For the Chinese version see《看图-功能与使用说明》.
 
