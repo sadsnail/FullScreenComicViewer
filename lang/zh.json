@@ -1,0 +1,21 @@
+{
+  "app.title": "看图",
+  "app.dir_not_found": "目录不存在: ",
+  "app.must_choose_dir": "必须选择目标目录才能进入程序。",
+  "dialog.folder_title": "选择漫画根目录",
+  "dialog.folder_prompt": "目标文件夹（支持网络映射盘，如 Z:\\ 或 \\\\服务器\\共享名）：",
+  "dialog.browse": "浏览...",
+  "dialog.ok": "确定",
+  "dialog.cancel": "取消",
+  "dialog.browse_title": "浏览文件夹",
+  "dialog.folder_error": "无法显示文件夹选择对话框（%s），将使用默认目录。",
+  "dir.title": "空格 进入目录  回车 进入播放  退格 上一级  F 收藏  B 收藏夹  ESC 退出",
+  "dir.title_favorites": "收藏夹 — 回车 播放  空格 进入目录  退格 退出收藏夹  ESC 退出",
+  "dir.parent": "[上一级]",
+  "dir.current": "[当前目录]",
+  "dir.no_favorites": "[暂无收藏]",
+  "dir.has_images": "[有图]",
+  "dir.loading": "加载中...",
+  "viewer.no_images": "该目录下未找到图片。\n支持: ",
+  "viewer.hint": "左键下 右键上  ←→翻页  上单页 下双页  H HDR  Backspace 返回  ESC 退出"
+}

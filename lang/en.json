@@ -1,0 +1,21 @@
+{
+  "app.title": "Kantu",
+  "app.dir_not_found": "Directory not found: ",
+  "app.must_choose_dir": "You must choose a target directory to continue.",
+  "dialog.folder_title": "Choose comic root folder",
+  "dialog.folder_prompt": "Target folder (supports network paths, e.g. Z:\\ or \\\\server\\share):",
+  "dialog.browse": "Browse...",
+  "dialog.ok": "OK",
+  "dialog.cancel": "Cancel",
+  "dialog.browse_title": "Browse for folder",
+  "dialog.folder_error": "Could not show folder dialog (%s). Using default directory.",
+  "dir.title": "Space Enter dir  Enter Play  Backspace Up  F Favorite  B Favorites  ESC Quit",
+  "dir.title_favorites": "Favorites — Enter Play  Space Enter dir  Backspace Exit  ESC Quit",
+  "dir.parent": "[Parent]",
+  "dir.current": "[Current folder]",
+  "dir.no_favorites": "[No favorites]",
+  "dir.has_images": "[Has images]",
+  "dir.loading": "Loading...",
+  "viewer.no_images": "No images found in this folder.\nSupported: ",
+  "viewer.hint": "L-Click Next R-Click Prev  ←→ Page  ↑1 page ↓2 page  H HDR  Backspace Back  ESC Quit"
+}
